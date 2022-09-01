@@ -1,3 +1,1 @@
 # pynet
-<<<<<<< HEAD
-sup
